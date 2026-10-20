@@ -29,7 +29,7 @@ class AgriSenseApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'AgriSense',
+      title: 'Agrisense',
       debugShowCheckedModeBanner: false,
       theme: AppTheme.lightTheme,
       home: const AppEntry(),
