@@ -1,11 +1,11 @@
 {
-    "name": "agrisense_own",
-    "short_name": "agrisense_own",
+    "name": "Agrisense",
+    "short_name": "Agrisense",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Smart farming companion",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
